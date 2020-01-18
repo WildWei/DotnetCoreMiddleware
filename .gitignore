@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs/DotnetCoreMiddleware/v15/.suo
+/.vs/DotnetCoreMiddleware/v15
+/MiddlewareTest/.vs/MiddlewareTest/v15/Server/sqlite3/storage.ide-wal
+/MiddlewareTest/.vs/MiddlewareTest/v15/Server/sqlite3/storage.ide-shm
+/MiddlewareTest/.vs/MiddlewareTest/v15/Server/sqlite3/storage.ide
+/MiddlewareTest/.vs/MiddlewareTest/v15/Server/sqlite3/db.lock
+/MiddlewareTest/.vs/MiddlewareTest/v15/Server/sqlite3
+/MiddlewareTest/.vs/MiddlewareTest/v15/.suo
+/MiddlewareTest/MiddlewareTest/obj
+/MiddlewareTest/MiddlewareTest/bin/Debug/netcoreapp2.1/MiddlewareTest.runtimeconfig.json
+/MiddlewareTest/MiddlewareTest/bin/Debug/netcoreapp2.1/MiddlewareTest.runtimeconfig.dev.json
+/MiddlewareTest/MiddlewareTest/bin/Debug/netcoreapp2.1/MiddlewareTest.pdb
+/MiddlewareTest/MiddlewareTest/bin/Debug/netcoreapp2.1/MiddlewareTest.dll
+/MiddlewareTest/MiddlewareTest/bin/Debug/netcoreapp2.1/MiddlewareTest.deps.json
